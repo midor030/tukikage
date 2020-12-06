@@ -6,7 +6,7 @@
 | ------------------- | ------ | ----------- |
 | email               | string | null: false |
 | encrypted_password  | string | null: false |
-| nickname            | string | null: false |
+| name                | string | null: false |
 
 
 ### Association
